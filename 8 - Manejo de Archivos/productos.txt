@@ -1,0 +1,5 @@
+Teclado,$100.3,15
+Monitor,$500.8,10
+Mouse,$20.6,12
+webcam,$66.5,22
+pendrive,$35.1,4
